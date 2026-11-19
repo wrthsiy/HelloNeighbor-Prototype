@@ -4,14 +4,14 @@ A single-player, first-person exploration game by **Ctrl-C Ctrl-V Studios**.
 
 Search the house and its surrounding yard, find five hidden colored keys, and reach the exit while avoiding the neighbor. For a more playful experience, try Fan mode with a faster, flying neighbor.
 
-**Version:** 1.0.0  
+**Version:** 1.1.0  
 **Platforms:** Windows 64-bit and Android
 
 ## Download and install
 
 ### Windows
 
-1. Download `HelloNeighbor-Windows-1.0.0.zip`.
+1. Download `HelloNeighbor-Windows-1.1.0.zip`.
 2. Extract the entire archive into a folder.
 3. Open `HelloNeighbor.exe`.
 
@@ -19,7 +19,7 @@ Keep the executable, `HelloNeighbor_Data`, `MonoBleedingEdge`, and the included 
 
 ### Android
 
-1. Download `HelloNeighbor-Android-1.0.0.apk` to your device.
+1. Download `HelloNeighbor-Android-1.1.0.apk` to your device.
 2. Open the APK with Android's package installer.
 3. If prompted, allow installation from the app you used to open the APK.
 4. Install the game and launch **HelloNeighbor**.
